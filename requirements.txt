@@ -6,3 +6,4 @@ plotly
 datetime
 gunicorn
 dash-bootstrap-components
+ipython
