@@ -574,6 +574,3 @@ def update_graph(selected_years):
 if __name__ == '__main__':
     app.run_server(debug=True, port=8063)
 
-# %%
-app.run(jupyter_mode="external")
-
