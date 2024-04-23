@@ -22,3 +22,5 @@ Moreover, I demonstrated adaptability and flexibility in responding to unforesee
 By managing the project timeline and adapting to evolving needs, I demonstrated the ability to navigate complex projects successfully. It showcases my resilience and capacity to overcome obstacles while maintaining a focus on delivering high-quality results. These experiences have not only enhanced my technical skills but also honed my soft skills, such as communication and problem-solving, which are invaluable in any professional setting.
 
 NOTE: I was unable to attach the original dataset because the file was too large for GitHub. For that reason, I simply uploaded the cleaned dataset used for my app rather than the original dataset and the data cleaning file.
+
+Original Data Set: https://www.kaggle.com/datasets/stefanoleone992/filmtv-movies-dataset?resource=download
